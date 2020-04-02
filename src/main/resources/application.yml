@@ -1,0 +1,4 @@
+server:
+  port: 9062
+  tomcat:
+    url-encoding: UTF-8
